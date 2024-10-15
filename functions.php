@@ -1,6 +1,6 @@
 <?php
 /**
- * Abstract class for Quick custom dynamic tags in Bricks Builder.
+ * EDD Helper Functions
  *
  * @category   Custom
  * @package    HookedFiltered
